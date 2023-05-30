@@ -12,7 +12,7 @@ To get started with development, you need to install few tools
    `git` version 2.13.1 or higher. Download [git](https://git-scm.com/downloads) if you don't have it already.
 
    To check your version of git, run:
-
+   
    ```shell
     git --version
    ```
